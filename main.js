@@ -1,5 +1,4 @@
-// Learn about Variables and Strings
-
+// Progam Title
 // INPUT
 let username = prompt("What is your name?");
 let timeOfDay = prompt("What time of day is it?"); 
